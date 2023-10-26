@@ -1,6 +1,6 @@
 <h1>Örnek Film Sitesi</h1>
 
-Film sitesi olarak tasarlanmıştır
+Bu proje örnek bir Film Sitesi projesidir.
 
 <h2>Kullanılan Diller</h2>
 
